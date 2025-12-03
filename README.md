@@ -1,16 +1,33 @@
-## Hi there 👋
+<h2 align="center">👋 Hey, I'm Knight — Full-Stack & Mobile Developer</h2>
 
-<!--
-**Knightdevvb/Knightdevvb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build modern web apps, APIs and Android apps using Next.js, Node.js, Kotlin and Java.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech stack
+- **Frontend:** Next.js, React, Tailwind, TypeScript  
+- **Backend:** Node.js, Express, REST APIs, JWT  
+- **Mobile:** Android, Kotlin, Jetpack Compose  
+- **Databases:** PostgreSQL, MongoDB, Firebase  
+- **Tools:** Git, Docker, Linux, Postman  
+
+---
+
+### 📂 Featured projects (subiré algunos pronto)
+- 🔐 **Auth API:** JWT + Refresh Tokens + RBAC  
+- 📱 **Android App:** Jetpack Compose + Firebase  
+- 🌐 **Full-stack App:** Next.js + Node + PostgreSQL  
+
+---
+
+### 📈 What I’m working on
+- Improving my full-stack skills  
+- Building portfolio projects  
+- Looking for remote opportunities  
+
+---
+
+### 📫 Contact
+**Email:** knightbinner@gmail.com  
