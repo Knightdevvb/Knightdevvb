@@ -30,4 +30,4 @@
 ---
 
 ### 📫 Contact
-**Email:** mautejada1008@gmail.com@gmail.com  
+**Email:** mautejada1008@gmail.com
