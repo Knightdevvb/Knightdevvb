@@ -16,13 +16,17 @@
 
 ---
 
-### 🚀 Tech stack
+### 🚀 Full-Stack Developer
+
+End-to-end developer with experience building production-ready web, backend and Android applications.
+
 - **Frontend:** Next.js, React, Tailwind CSS, TypeScript  
 - **Backend:** Node.js, Express, REST APIs, JWT, Firebase  
 - **Mobile:** Android (Kotlin), Jetpack Compose, Material 3  
-- **Databases:** PostgreSQL, MongoDB, Firebase (Firestore), Room  
+- **Databases:** PostgreSQL, MongoDB, Firebase Firestore, Room  
 - **Architecture:** MVVM, Clean Architecture  
-- **Tools:** Git, Docker, Linux, Postman  
+- **DevOps & Tools:** Git, Docker, Linux, Postman  
+
 
 ---
 
