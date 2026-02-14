@@ -5,13 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Creator of <strong>FitLens</strong>, an AI-powered nutrition tracking app available on Google Play
-</p>
-
-<p align="center">
-  📱 <a href="https://play.google.com/store/apps/details?id=com.fitlens.app" target="_blank">
-    FitLens on Google Play
-  </a>
+  <img src="https://skillicons.dev/icons?i=kotlin,android,nextjs,react,nodejs,typescript,postgres,mongodb,firebase,docker,git,linux" alt="Tech Stack" />
 </p>
 
 ---
@@ -20,18 +14,37 @@
 
 End-to-end developer with experience building production-ready web, backend and Android applications.
 
-- **Frontend:** Next.js, React, Tailwind CSS, TypeScript  
-- **Backend:** Node.js, Express, REST APIs, JWT, Firebase  
-- **Mobile:** Android (Kotlin), Jetpack Compose, Material 3  
-- **Databases:** PostgreSQL, MongoDB, Firebase Firestore, Room  
-- **Architecture:** MVVM, Clean Architecture  
-- **DevOps & Tools:** Git, Docker, Linux, Postman  
+#### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,typescript,html,css,js" alt="Frontend Stack" />
+</p>
 
+#### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase" alt="Backend Stack" />
+</p>
+
+#### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,android" alt="Mobile Stack" />
+</p>
+
+#### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman" alt="DevOps Tools" />
+</p>
+
+**Architecture:** MVVM, Clean Architecture, REST APIs, JWT Authentication
 
 ---
 
 ### 📱 Featured Project — FitLens
+
 **FitLens** is an AI-powered nutrition tracking Android app that allows users to scan meals using their camera and receive automatic nutritional analysis.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,android,firebase" alt="FitLens Tech" />
+</p>
 
 **Key features:**
 - 📸 AI food scanning (calories, macros, ingredients)
@@ -42,7 +55,7 @@ End-to-end developer with experience building production-ready web, backend and 
 - 📈 Advanced statistics with charts & PDF export
 - ☁️ Cloud sync with Firebase
 
-**Tech used:**
+**Tech Stack:**
 - Kotlin + Jetpack Compose
 - Firebase (Auth, Firestore)
 - Google Gemini API
@@ -50,24 +63,34 @@ End-to-end developer with experience building production-ready web, backend and 
 - Hilt (Dependency Injection)
 - WorkManager & Notifications
 
-🔗 **Live app:** https://play.google.com/store/apps/details?id=com.fitlens.app
-
 ---
 
-### 📂 Other projects
+### 📂 Other Projects
+
 - 🔐 **Auth API:** JWT + Refresh Tokens + RBAC  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres" height="30" alt="Auth API Stack" />
+
 - 🌐 **Full-stack App:** Next.js + Node.js + PostgreSQL  
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres" height="30" alt="Full-stack Stack" />
+
 - 📱 **Android Apps:** Jetpack Compose + Firebase  
+  <img src="https://skillicons.dev/icons?i=kotlin,android,firebase" height="30" alt="Android Stack" />
 
 ---
 
-### 📈 What I’m working on
-- Scaling production-ready mobile apps  
-- Advanced backend & cloud architectures  
-- AI-powered applications  
-- Open to remote opportunities  
+### 📈 What I'm Working On
+
+- 🚀 Scaling production-ready mobile apps  
+- ☁️ Advanced backend & cloud architectures  
+- 🤖 AI-powered applications  
+- 💼 Open to remote opportunities  
 
 ---
 
 ### 📫 Contact
+
 **Email:** mautejada1008@gmail.com
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Contact" />
+</p>
